@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Telegram",
+        "color": "#0088cc",
+        "icon": "telegram",
+        "url": "https://t.me/keselekpermen69"
+	},
+    {
+        "name": "Instagram",
+        "color": "#bc2a8d",
+        "icon": "instagram",
+        "url": "https://www.instagram.com/gaungrb"
+	},
+    {
+        "name": "Github",
+        "color": "black",
+        "icon": "github-face",
+        "url": "https://github.com/keselekpermen69"
+	},
+    {
+        "name": "Twitter",
+        "color": "#00acee",
+        "icon": "twitter",
+        "url": "https://twitter.com/gaungrb"
+	}
+]
